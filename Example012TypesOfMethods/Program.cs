@@ -41,7 +41,7 @@ int year = Method3();
 Console.WriteLine(year);
 
 // 4) Что-то принимают и что-то возвращают
-int Method4(int count, string c)
+string Method4(int count, string c)
 {
   int i = 0;
   string result = String.Empty;
